@@ -8,7 +8,7 @@ This project was built for the Cloudflare AI Challenge and includes all required
 
 ## 🚀 Live Demo (after deployment)
 
-https://<your-worker-subdomain>.workers.dev
+https://'<your-worker-subdomain>'.workers.dev
 
 ---
 
